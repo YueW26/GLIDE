@@ -1,5 +1,5 @@
 
-# GLIDE: Capturing High-Order Covariance with Message Passing
+# GLIDE: Graph Layer for Inference in Dynamic Environments
 
 
 
